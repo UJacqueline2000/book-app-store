@@ -21,7 +21,7 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Tools
 1.VS Code
 # AUTHOR
-SAM Sande
+## SAM Sande
 
 [Github:UJacqueline2000](https://github.com/UJacqueline2000/markdown-guide/wiki)
 
