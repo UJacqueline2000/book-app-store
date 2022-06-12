@@ -18,3 +18,11 @@ This app has to parts: The first part is where you add a book title, author, pag
 1.You can add book and it's descriptions
 
 2.You can delete book
+# Tools
+1.VS Code
+# AUTHOR
+SAM Sande
+Github:UJacqueline2000
+
+<https://github.com/UJacqueline2000>
+<uwajackyolivia@gmail.com>
