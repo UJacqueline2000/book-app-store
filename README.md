@@ -7,10 +7,14 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Sceenshoot
 ![sam](https://user-images.githubusercontent.com/63926982/172262511-b19eefd4-4e80-480e-954f-d89fbeff5d85.png)
 # Build Width
-HTML5: 4.3%
-CSS3:6.8%
-SASS/SCSS: 5.6%
-JavaScript:83.3%
+1.HTML5: 4.3%
+
+2.CSS3:6.8%
+
+3.SASS/SCSS: 5.6%
+
+4.JavaScript:83.3%
 # Features
-You can add book and it's descriptions
-You can delete book
+1.You can add book and it's descriptions
+
+2.You can delete book
